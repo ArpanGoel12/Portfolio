@@ -1,0 +1,19 @@
+.app{
+    height: 100vh;
+
+    .sections{
+        width: 100%;
+        
+        background-color: lightsalmon;
+        position: relative;
+        top: 70px;
+        scroll-behavior: smooth;
+        
+
+        > *{
+            width: 100vw;
+            
+            
+        }
+    }
+}
